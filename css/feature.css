@@ -1,0 +1,33 @@
+.feature__box {
+    text-align: center;
+    width: 325px;
+}
+
+.feature__title {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 18px;
+    color: #212b31;
+    margin-top: 20px;
+}
+
+.feature__description {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787d;
+    margin-top: 10px;
+}
+
+.feature__content {
+    display: flex;
+    justify-content: center;
+}
+
+.feature__box {
+    margin: 0 20px;
+}
+
+.feature {
+    margin-top: 148px;
+}

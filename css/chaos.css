@@ -1,0 +1,23 @@
+.chaos {
+    margin-top: 142px;
+}
+
+.chaos__title {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    color: #212b31;
+}
+.chaos__description {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #72787d;
+    margin-top: 16px;
+}
+
+.chaos__img {
+    margin-top: 40px;
+}

@@ -1,0 +1,49 @@
+.container {
+    width: 1056px;
+    margin: 0 auto;
+}
+
+.btn__black {
+    font-size: 17px;
+    font-weight: 400;
+    color: #ffffff;
+    background: #212b31;
+    border: 1px solid #212b31;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+    border-radius: 4px;
+    transition: 0.3s;
+    padding: 13px 25px;
+    cursor: pointer;
+}
+
+.btn__black:hover {
+    color: #212b31;
+    background: #ffffff;
+}
+
+.btn__white {
+    background: #ffffff;
+    border: 1px solid #dadedf;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #212b31;
+    padding: 13px 25px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.btn__white:hover {
+    color: #fff;
+    background: #ccc;
+}
+
+.yellow-line {
+    position: absolute;
+    background: #ffd042;
+    width: 100%;
+    height: 16px;
+
+    top: 13px;
+    z-index: -1;
+}

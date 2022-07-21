@@ -1,0 +1,49 @@
+.deliver__title {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    color: #212b31;
+}
+
+.deliver__suptitle {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #72787d;
+    width: 643px;
+    margin: 0 auto;
+}
+
+.deliver__name {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 18px;
+    color: #212b31;
+}
+
+.deliver__description {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787d;
+}
+
+.deliver__box {
+    display: flex;
+    width: 324px;
+    align-items: flex-start;
+}
+
+.deliver__icon {
+    margin-right: 16px;
+    padding-top: 15px;
+}
+
+.deliver__sector {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 43px;
+}

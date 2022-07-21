@@ -1,0 +1,60 @@
+.header__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 26px 31px;
+}
+
+.header__nav {
+    display: flex;
+    align-items: center;
+}
+
+.header__link {
+    font-family: "Inter";
+    color: #72787d;
+    font-weight: 400;
+    font-size: 16px;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.header__item {
+    margin-left: 22px;
+}
+
+.header__link:hover {
+    color: #036fc7;
+}
+
+.header__logo {
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #212b31;
+    font-family: "Inter";
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+}
+
+.header__icon {
+    margin-right: 8px;
+}
+
+.header__btn {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 15px;
+    background: #212b31;
+    border: 1px solid #212b31;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+    border-radius: 4px;
+
+    padding: 9px 20px;
+    transition: 0.3s;
+}
+
+.header__btn:hover {
+    color: #212b31;
+    background: #ffffff;
+}
